@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Observer", "ActionMode\Obse
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ResponsibilityChain", "ActionMode\ResponsibilityChain\ResponsibilityChain.vcxproj", "{53EDBE98-617A-4B4B-B8D0-FAFDB7BAE321}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prototype", "CreationMode\Prototype\Prototype.vcxproj", "{3A06385E-BB3B-44AF-8830-B3B66EEF6FF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -117,6 +119,14 @@ Global
 		{53EDBE98-617A-4B4B-B8D0-FAFDB7BAE321}.Release|x64.Build.0 = Release|x64
 		{53EDBE98-617A-4B4B-B8D0-FAFDB7BAE321}.Release|x86.ActiveCfg = Release|Win32
 		{53EDBE98-617A-4B4B-B8D0-FAFDB7BAE321}.Release|x86.Build.0 = Release|Win32
+		{3A06385E-BB3B-44AF-8830-B3B66EEF6FF5}.Debug|x64.ActiveCfg = Debug|x64
+		{3A06385E-BB3B-44AF-8830-B3B66EEF6FF5}.Debug|x64.Build.0 = Debug|x64
+		{3A06385E-BB3B-44AF-8830-B3B66EEF6FF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A06385E-BB3B-44AF-8830-B3B66EEF6FF5}.Debug|x86.Build.0 = Debug|Win32
+		{3A06385E-BB3B-44AF-8830-B3B66EEF6FF5}.Release|x64.ActiveCfg = Release|x64
+		{3A06385E-BB3B-44AF-8830-B3B66EEF6FF5}.Release|x64.Build.0 = Release|x64
+		{3A06385E-BB3B-44AF-8830-B3B66EEF6FF5}.Release|x86.ActiveCfg = Release|Win32
+		{3A06385E-BB3B-44AF-8830-B3B66EEF6FF5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,5 +142,6 @@ Global
 		{F403D7E2-B6AA-491F-A644-058BF3023CA6} = {40B4F76C-CA39-42F6-A29B-727A54023D25}
 		{F07DE827-DD8F-46F4-9FD0-73F087F8F4E7} = {40B4F76C-CA39-42F6-A29B-727A54023D25}
 		{53EDBE98-617A-4B4B-B8D0-FAFDB7BAE321} = {40B4F76C-CA39-42F6-A29B-727A54023D25}
+		{3A06385E-BB3B-44AF-8830-B3B66EEF6FF5} = {20F31B52-82F2-44F0-986F-C7DFC3CB61EC}
 	EndGlobalSection
 EndGlobal

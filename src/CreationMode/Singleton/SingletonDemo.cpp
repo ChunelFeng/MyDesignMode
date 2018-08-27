@@ -7,6 +7,7 @@
 饿汉模式：类初始化的时候，就开始分配资源
 懒汉模式：类被第一次用到的时候，才开始分配资源
 */
+
 #include <iostream>
 #include "Singleton.h"
 
